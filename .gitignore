@@ -1,0 +1,9 @@
+#locan env files 
+.env*
+
+*.css
+
+*.js
+
+# misc 
+.vscode
